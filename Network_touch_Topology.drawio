@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="Page-1" id="c37626ed-c26b-45fb-9056-f9ebc6bb27b6">
-    <mxGraphModel dx="3836" dy="1607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4615" dy="1967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -529,16 +529,19 @@
           <mxGeometry height="190" width="370" x="1378" y="1286" as="geometry" />
         </mxCell>
         <mxCell id="exB5fLzu2YSOx1MaNFbg-160" parent="Gdn2QPpnznFdBrHHuhAQ-76" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=2;fontFamily=Verdana;fontSize=14;fontStyle=1;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; font-weight: 400; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20connectable%3D%220%22%20parent%3D%221%22%20style%3D%22group%22%20value%3D%22%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%22190%22%20width%3D%22370%22%20x%3D%221378%22%20y%3D%221116%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20parent%3D%222%22%20style%3D%22whiteSpace%3Dwrap%3Bhtml%3D1%3Brounded%3D0%3Bshadow%3D0%3Bcomic%3D0%3BstrokeWidth%3D2%3BfontFamily%3DVerdana%3BfontSize%3D14%3BfontStyle%3D1%3BverticalAlign%3Dtop%3Bmovable%3D1%3Bresizable%3D1%3Brotatable%3D1%3Bdeletable%3D1%3Beditable%3D1%3Blocked%3D0%3Bconnectable%3D1%3BfillColor%3D%23e1d5e7%3BstrokeColor%3D%239673a6%3B%22%20value%3D%22%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%22190%22%20width%3D%22360%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20parent%3D%222%22%20style%3D%22sketch%3D0%3Bhtml%3D1%3BpointerEvents%3D1%3Bdashed%3D0%3BfillColor%3D%23036897%3BstrokeColor%3D%23ffffff%3BstrokeWidth%3D2%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Balign%3Dcenter%3BoutlineConnect%3D0%3Bshape%3Dmxgraph.cisco.computers_and_peripherals.web_browser%3Brotation%3D1%3B%22%20value%3D%22%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2284%22%20width%3D%2280%22%20x%3D%2239.996908876621546%22%20y%3D%2253.00169945405969%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%225%22%20parent%3D%222%22%20style%3D%22text%3Bhtml%3D1%3BwhiteSpace%3Dwrap%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Brounded%3D0%3BlabelBackgroundColor%3Ddefault%3Bcontainer%3D1%3B%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bfont-size%3A%2018px%3B%26quot%3B%26gt%3BDMZ%20Server%26lt%3B%2Fspan%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2230%22%20width%3D%22115%22%20x%3D%22120%22%20y%3D%2253%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%226%22%20parent%3D%222%22%20style%3D%22text%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Balign%3Dcenter%3B%22%20value%3D%22%26lt%3Bspan%20style%3D%26quot%3Bcolor%3A%20rgb(0%2C%200%2C%200)%3B%20font-family%3A%20Helvetica%3B%20font-size%3A%2018px%3B%20font-style%3A%20normal%3B%20font-variant-ligatures%3A%20normal%3B%20font-variant-caps%3A%20normal%3B%20font-weight%3A%20400%3B%20letter-spacing%3A%20normal%3B%20orphans%3A%202%3B%20text-indent%3A%200px%3B%20text-transform%3A%20none%3B%20widows%3A%202%3B%20word-spacing%3A%200px%3B%20-webkit-text-stroke-width%3A%200px%3B%20white-space%3A%20normal%3B%20text-decoration-thickness%3A%20initial%3B%20text-decoration-style%3A%20initial%3B%20text-decoration-color%3A%20initial%3B%20float%3A%20none%3B%20background-color%3A%20rgb(255%2C%20255%2C%20255)%3B%20display%3A%20inline%20!important%3B%26quot%3B%26gt%3BVLAN%2040%20DMZ%26lt%3Bbr%26gt%3B10.3.40.0%26lt%3B%2Fspan%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2233.34%22%20width%3D%22160%22%20x%3D%22210%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
-          <mxGeometry height="190" width="360" as="geometry" />
+          <mxGeometry height="170" width="360" y="20" as="geometry" />
         </mxCell>
         <mxCell id="exB5fLzu2YSOx1MaNFbg-36" parent="Gdn2QPpnznFdBrHHuhAQ-76" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.web_browser;rotation=1;" value="" vertex="1">
-          <mxGeometry height="84" width="80" x="39.996908876621546" y="53.00169945405969" as="geometry" />
+          <mxGeometry height="84" width="80" x="39.996908876621546" y="47.00169945405969" as="geometry" />
         </mxCell>
         <mxCell id="exB5fLzu2YSOx1MaNFbg-37" parent="Gdn2QPpnznFdBrHHuhAQ-76" style="text;html=1;whiteSpace=wrap;align=center;verticalAlign=middle;rounded=0;labelBackgroundColor=default;container=1;" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;DMZ Server&lt;br&gt;172.30.0.10&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="115" x="120" y="53" as="geometry" />
+          <mxGeometry height="30" width="115" x="120" y="74" as="geometry" />
         </mxCell>
         <mxCell id="exB5fLzu2YSOx1MaNFbg-161" parent="Gdn2QPpnznFdBrHHuhAQ-76" style="text;whiteSpace=wrap;html=1;align=center;" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; background-color: rgb(255, 255, 255); display: inline !important;&quot;&gt;VLAN 40 DMZ&lt;br&gt;10.3.40.0&lt;/span&gt;" vertex="1">
-          <mxGeometry height="33.34" width="160" x="210" as="geometry" />
+          <mxGeometry height="33.34" width="160" x="210" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="VxQknNvLL4C6vZDKY4ai-9" edge="1" parent="Gdn2QPpnznFdBrHHuhAQ-76" source="exB5fLzu2YSOx1MaNFbg-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="exB5fLzu2YSOx1MaNFbg-161">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="exB5fLzu2YSOx1MaNFbg-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;labelBackgroundColor=default;" value="&lt;span style=&quot;&quot;&gt;Microtik Firewall #2 (Backup)&lt;br&gt;&lt;/span&gt;10.3.99.3&lt;span style=&quot;&quot;&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="32.31" width="220" x="1633" y="1730" as="geometry" />
@@ -581,9 +584,9 @@
         <mxCell id="Gdn2QPpnznFdBrHHuhAQ-90" edge="1" parent="1" source="Q0ONO537xYQirOHQnoHO-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.95;exitY=0.94;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;endArrow=none;endFill=0;" target="exB5fLzu2YSOx1MaNFbg-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1260" y="954" />
-              <mxPoint x="1260" y="1260" />
-              <mxPoint x="1458" y="1260" />
+              <mxPoint x="1230" y="954" />
+              <mxPoint x="1230" y="1280" />
+              <mxPoint x="1458" y="1280" />
             </Array>
           </mxGeometry>
         </mxCell>
